@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/LinuxGamer/Hello-World-of-Drawing/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LinuxGamer/Hello-World-of-Drawing/actions/workflows/pages/pages-build-deployment)
