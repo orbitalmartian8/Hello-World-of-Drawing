@@ -5,7 +5,7 @@
 | Introduction         |
 | What Do I Need?      |
 | Drawing Basic Shapes |
-| Drawings a face      |
+| Drawings A Face      |
 | Credits              |
 
 ## Introduction
