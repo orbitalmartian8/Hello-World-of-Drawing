@@ -10,7 +10,7 @@
 
 ## Introduction
 
-I have always enjoyed art, but whenever I have drawn something, especially characters, I never liked them and that really put me off. But then I started watching tutorials and process videos on YouTube from people such as Brad Colbow, Saultoons and David Revoy, all of whom inspired me to improve my drawing and helped with the videos they produce. This book compiles all that I have learnt from them and from what I have taught myself.
+I have always enjoyed art, but whenever I have drawn something, especially characters, I never liked them and that really put me off. But then I started watching tutorials and process videos on YouTube from people such as Brad Colbow, Saultoons, Rakurri and David Revoy, all of whom inspired me to improve my drawing and helped with the videos they produce. This book compiles all that I have learnt from them and from what I have taught myself.
 
 ## What Do I Need?
 
