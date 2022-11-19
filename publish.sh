@@ -1,2 +1,2 @@
 #! /bin/bash
-pandoc -o HWoD.pdf Book.md
+pandoc -o output/HWoD.pdf Book.md

@@ -36,3 +36,12 @@ Now you've drawn a line, draw 4 straight lines each one connecting to 1 other li
 <sup>Drawing of a Box</sup>
 
 ## Drawing A
+
+
+
+
+## Credits
+David Revoy - https://davidrevoy.com
+Saultoons - 
+Brad Colbow - 
+Rakurri - 
