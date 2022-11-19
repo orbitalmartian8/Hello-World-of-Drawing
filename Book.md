@@ -25,7 +25,6 @@ So now you've got a pencil and a bit of paper. Draw a line on the paper. Done? N
 
 ![Image of a line](assets/line.png)
 
-<sup>Image Of A Line</sup>
 
 ### Drawing A Box
 
@@ -33,7 +32,6 @@ Now you've drawn a line, draw 4 straight lines each one connecting to 1 other li
 
  ![Drawing of a box](assets/box.png)
 
-<sup>Drawing of a Box</sup>
 
 ## Drawing A
 
@@ -42,6 +40,9 @@ Now you've drawn a line, draw 4 straight lines each one connecting to 1 other li
 
 ## Credits
 David Revoy - https://davidrevoy.com
+
 Saultoons - 
+
 Brad Colbow - 
-Rakurri - 
+
+Rakurri - https://linktr.ee/Rakurri
